@@ -94,3 +94,6 @@ A: Mermaid Transformation - Entertainment: Cartoon & Animations
 Auto Quiz - Fire 🧠
 Q: The city of Rockport is featured in which of the following video games?
 A: Need for Speed: Most Wanted (2005) - Entertainment: Video Games
+Auto Quiz - Earth 🧠
+Q: This movie contains the quote, "What we've got here is a failure to communicate."
+A: Cool Hand Luke - Entertainment: Film
